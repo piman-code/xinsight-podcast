@@ -11,6 +11,15 @@
     <itunes:image href="https://muse.ai/podcasts/media/1272761839263039/2305b74d-d208-4252-87c4-423d2d552529/cover.png"/>
     <atom:link href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>파이맨의 Xinsight 모닝 브리프 — 2026년 10월 13일</title>
+      <description>메타의 첫 프런티어 모델 공개, 마이크로소프트의 자체 AI 칩 전환, 코스피 3.7% 급락과 원달러 1,332원, LH 전세임대 주거 질 논란과 대출 규제 발언</description>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xinsight-2026-10-13-2026-10-13</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1272761839263039/2305b74d-d208-4252-87c4-423d2d552529/ep-ebe7b7ab-939a-4b4e-84bd-ae9de7911cac.mp3" length="3034405" type="audio/mpeg"/>
+      <itunes:duration>6:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>파이맨의 Xinsight 모닝 브리프 — 2026년 10월 12일</title>
       <description>아마존 디카트 70억달러 인수 협상, 美 수학 관문과목 배정 격차, 사하라 이남 어린 엄마 600만명 학교 밖.</description>
       <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
