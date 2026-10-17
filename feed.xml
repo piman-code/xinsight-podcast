@@ -11,6 +11,15 @@
     <itunes:image href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/cover.jpg"/>
     <atom:link href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>파이맨의 Xinsight 모닝 브리프 — 2026년 10월 18일</title>
+      <description>10월 18일 모닝 브리프</description>
+      <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xinsight-2026-10-18-2026-10-17</guid>
+      <enclosure url="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/audio/xinsight-2026-10-18-2026-10-17.mp3" length="2400237" type="audio/mpeg"/>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>파이맨의 Xinsight 이브닝 브리프 — 2026년 10월 17일</title>
       <description>엔비디아 RTX 스파크 노트북, 클로드의 25년 암호 난제 해결, 서울 전세 시장 — 토요일 저녁 핵심 정리</description>
       <pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
