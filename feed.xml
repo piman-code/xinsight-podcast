@@ -11,6 +11,15 @@
     <itunes:image href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/cover.jpg"/>
     <atom:link href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>파이맨의 Xinsight 모닝 브리프 — 2026년 10월 20일</title>
+      <description>메타의 PC용 에이전트 모델 '뮤즈 글리머' 공개, 국고채 발행 5조원 축소, 서울 월세 비중 첫 50% 초과와 소형 전셋값 최고치.</description>
+      <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xinsight-2026-10-20-2026-10-19</guid>
+      <enclosure url="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/audio/xinsight-2026-10-20-2026-10-19.mp3" length="2714541" type="audio/mpeg"/>
+      <itunes:duration>5:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>파이맨의 Xinsight 모닝 브리프 — 2026년 10월 19일</title>
       <description>앤트로픽 공익기금, 미국 학자금 이자 1% 인하, 국민연금 평가액 182조원 감소, 동대문 신축 20억원 돌파 등 10월 19일 X 주요 뉴스 8가지</description>
       <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
