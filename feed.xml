@@ -11,6 +11,15 @@
     <itunes:image href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/cover.jpg"/>
     <atom:link href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>파이맨의 Xinsight 모닝 브리프 — 2026년 10월 22일</title>
+      <description>AI 보안 활용 심화, 학생 위기 수치와 상담교사 부족, 물가·금리 지표, 서울 부동산 급등 — 10월 22일 아침 핵심 소식</description>
+      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xinsight-2026-10-22-2026-10-21</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1272761839263039/2305b74d-d208-4252-87c4-423d2d552529/ep-3a463273-5ae1-4133-90fc-c2476874183c.mp3" length="2980653" type="audio/mpeg"/>
+      <itunes:duration>6:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>파이맨의 Xinsight 모닝 브리프 — 2026년 10월 21일</title>
       <description>오픈AI의 신약 플랫폼 인수와 앤트로픽의 치료제 설계, 스페이스X의 어닝 서프라이즈 등 10월 21일 아침 주요 소식</description>
       <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
