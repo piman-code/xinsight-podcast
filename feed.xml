@@ -11,6 +11,15 @@
     <itunes:image href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/cover.jpg"/>
     <atom:link href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Xinsight English Edition — October 30, 2026</title>
+      <description>OpenAI revises its model values, GitHub agents draft more code, Korea tests early warnings for vocational training, dormitory capacity hits a six-year low, Alphabet spending shakes the KOSPI, and housing permits fall sharply.</description>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xinsight-english-edition-october-30-2026-2026-10-30</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1272761839263039/2305b74d-d208-4252-87c4-423d2d552529/ep-55164ca0-e6d4-4d2b-b811-984475f8a7c3.mp3" length="3221645" type="audio/mpeg"/>
+      <itunes:duration>6:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>파이맨의 Xinsight 모닝 브리프 — 2026년 10월 28일</title>
       <description>앤트로픽의 신약 협력과 엔비디아의 메타 투자, 나스닥 반등과 북미 관세 경고, 서울 전세의 월세 전환과 오피스텔 상승을 정리한 수요일 아침 브리프</description>
       <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
