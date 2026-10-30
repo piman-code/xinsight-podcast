@@ -11,6 +11,15 @@
     <itunes:image href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/cover.jpg"/>
     <atom:link href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>파이맨의 Xinsight 모닝 브리프 — 2026년 10월 31일</title>
+      <description>앤트로픽 요금제 개편, 미국 대학가 단속과 인증 개편, 고용비용과 연준 추가 인상론, 11월 분양 확대를 정리합니다.</description>
+      <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xinsight-2026-10-31-2026-10-30</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1272761839263039/2305b74d-d208-4252-87c4-423d2d552529/ep-36320c11-1b63-4707-857b-e7484215faf7.mp3" length="2171941" type="audio/mpeg"/>
+      <itunes:duration>4:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Xinsight English Edition — October 30, 2026</title>
       <description>OpenAI revises its model values, GitHub agents draft more code, Korea tests early warnings for vocational training, dormitory capacity hits a six-year low, Alphabet spending shakes the KOSPI, and housing permits fall sharply.</description>
       <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
