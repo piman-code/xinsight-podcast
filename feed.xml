@@ -11,6 +11,15 @@
     <itunes:image href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/cover.jpg"/>
     <atom:link href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>파이맨의 Xinsight 모닝 브리프 — 2026년 11월 2일</title>
+      <description>카파시의 해커튜브, 미국 보육 지원금 기준 변경, 10월 반도체 수출 호조를 정리한 모닝 브리프</description>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xinsight-2026-11-2-2026-11-01</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1272761839263039/2305b74d-d208-4252-87c4-423d2d552529/ep-2de2e8fb-8e62-4ecc-b696-49826ed0af53.mp3" length="1043373" type="audio/mpeg"/>
+      <itunes:duration>2:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>파이맨의 Xinsight 모닝 브리프 — 2026년 11월 1일</title>
       <description>오픈AI 자금 조달 축소, AI 튜터 실험, 수능 스마트안경 제재 강화, 유학생·사회보장·주택 인허가 소식 정리</description>
       <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
