@@ -11,6 +11,15 @@
     <itunes:image href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/cover.jpg"/>
     <atom:link href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>파이맨의 Xinsight 모닝 브리프 — 2026년 11월 5일</title>
+      <description>실제 로봇 평가 무대, 인공지능 엔지니어 수요, 국립의대 신설, 잉글랜드 대학 시설 노후, 코스피 변동성과 김포·광교 부동산 소식</description>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xinsight-2026-11-5-2026-11-04</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1272761839263039/2305b74d-d208-4252-87c4-423d2d552529/ep-6f104339-e608-492f-8ba9-6626e1ad861c.mp3" length="2370669" type="audio/mpeg"/>
+      <itunes:duration>4:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Xinsight English Edition — November 4, 2026</title>
       <description>OpenAI GPT-6 Astra designs hardware on its own, DeepMind's drug-discovery agent, smart-glasses exam security, a wild KOSPI day after the US midterms, and Seoul's swelling apartment listings.</description>
       <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
