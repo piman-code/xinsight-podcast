@@ -690,8 +690,8 @@
       <description>Xinsight 데일리 브리프를 오디오로. 오픈AI 텍스트 워터마크, 유네스코 교사 부족, 스트래티지 3분기 실적, ISM 서비스 지표.</description>
       <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
       <guid isPermaLink="false">xinsight-2026-10-6-2026-10-06</guid>
-      <enclosure url="https://muse.ai/podcasts/media/1272761839263039/f5bf2bcb-aec9-47be-b6fd-3cd35dbfa18e/ep-0131f375-74d5-4b4d-93a6-165d15ef559d.mp3" length="1989541" type="audio/mpeg"/>
-      <itunes:duration>4:08</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/audio/xinsight-2026-10-6-2026-10-06.mp3" length="4974765" type="audio/mpeg"/>
+      <itunes:duration>4:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
