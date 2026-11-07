@@ -11,6 +11,15 @@
     <itunes:image href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/cover.jpg"/>
     <atom:link href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>파이맨의 Xinsight 모닝 브리프 — 2026년 11월 7일</title>
+      <description>코스피 검은 금요일, 고덕강일 청약 열기와 강남 하락 거래, 오픈AI 실험실 평가 기준까지 — 오늘 아침 여덟 가지 소식.</description>
+      <pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xinsight-2026-11-7-2026-11-06</guid>
+      <enclosure url="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/audio/xinsight-2026-11-7-2026-11-06.mp3" length="7191405" type="audio/mpeg"/>
+      <itunes:duration>6:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>파이맨의 Xinsight 모닝 브리프 — 2026년 11월 6일</title>
       <description>오픈AI 취약점 자동 패치, 클로드 개인 금융 베타, 상하이 기능올림픽 직업계고 성과, 9월 경상수지 사상 최대 흑자, 인천 분양가 8억 돌파까지 — 11월 6일 아침 핵심 소식 정리.</description>
       <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
