@@ -11,6 +11,15 @@
     <itunes:image href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/cover.jpg"/>
     <atom:link href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>파이맨의 Xinsight 모닝 브리프 — 2026년 11월 10일</title>
+      <description>메타·구글의 에이전트용 소형 모델과 전용 칩, 수능 앞 AI 안경 부정행위, 배달앱 과징금과 미국 물가, 월세화와 종부세 이견까지 담은 모닝 브리프.</description>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xinsight-2026-11-10-2026-11-09</guid>
+      <enclosure url="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/audio/xinsight-2026-11-10-2026-11-09.mp3" length="7061325" type="audio/mpeg"/>
+      <itunes:duration>5:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>파이맨의 Xinsight 모닝 브리프 — 2026년 11월 9일</title>
       <description>AI 전력 확보전과 OECD AI 도입 격차, 수능 N수생 최다, 엔비디아 이사회 조사, IMF 중동 성장 하향, 지분적립형 공공분양 첫 청약까지. 2026년 11월 9일 월요일 아침 브리핑.</description>
       <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
