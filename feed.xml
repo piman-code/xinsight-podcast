@@ -11,6 +11,15 @@
     <itunes:image href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/cover.jpg"/>
     <atom:link href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>파이맨의 Xinsight 모닝 브리프 — 2026년 11월 11일</title>
+      <description>구글 제미나이 포 카본 출시와 시그널 코드 형식검증, 연준 매파 발언과 코스피 눈높이 하향, 인천 전세난까지 — 11월 11일 아침 소식 정리.</description>
+      <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xinsight-2026-11-11-2026-11-10</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1272761839263039/2305b74d-d208-4252-87c4-423d2d552529/ep-b9bfa092-41c8-4ae8-8714-2e88eba5845d.mp3" length="2682277" type="audio/mpeg"/>
+      <itunes:duration>5:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>파이맨의 Xinsight 모닝 브리프 — 2026년 11월 10일</title>
       <description>메타·구글의 에이전트용 소형 모델과 전용 칩, 수능 앞 AI 안경 부정행위, 배달앱 과징금과 미국 물가, 월세화와 종부세 이견까지 담은 모닝 브리프.</description>
       <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
