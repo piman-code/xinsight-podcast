@@ -834,5 +834,14 @@
     "audio_url": "https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/audio/xinsight-2026-11-12-2026-11-11.mp3",
     "duration_secs": 324,
     "file_size": 6481485
+  },
+  {
+    "guid": "xinsight-2026-11-12-2026-11-12",
+    "title": "파이맨의 Xinsight 이브닝 브리프 — 2026년 11월 12일",
+    "description": "앤트로픽 상장이 AI 투자 심리의 잣대가 되고, 학생 마음건강은 교육청이 매달 점검받으며, 연준이 AI 부채를 위험 요인으로 꼽은 가운데 코스피는 숨을 골랐고, 한강벨트 하락에 정부가 공공재개발 문턱을 낮춘 이브닝 브리프.",
+    "pub_date": "2026-11-12",
+    "audio_url": "https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/audio/xinsight-2026-11-12-2026-11-12.mp3",
+    "duration_secs": 352,
+    "file_size": 7035405
   }
 ]
