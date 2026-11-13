@@ -11,6 +11,15 @@
     <itunes:image href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/cover.jpg"/>
     <atom:link href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>파이맨의 Xinsight 모닝 브리프 — 2026년 11월 14일</title>
+      <description>구글 한 주 출시 목록, 중국 엔비디아 칩 데이터센터 논란, 수능 스마트안경 대응, 코스피 변동, 한강벨트 하락까지 아홉 가지 소식</description>
+      <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xinsight-2026-11-14-2026-11-13</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1272761839263039/2305b74d-d208-4252-87c4-423d2d552529/ep-4d7c4dd8-0a49-4232-87fa-d0065e7ec29d.mp3" length="2193061" type="audio/mpeg"/>
+      <itunes:duration>4:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>파이맨의 Xinsight 모닝 브리프 — 2026년 11월 13일</title>
       <description>구글 제미나이 포 하이드로젠 출시와 검색·코딩 업데이트, 앤트로픽 클로드 미팅스, 달러 강세와 서울 아파트값 소식을 전합니다.</description>
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
