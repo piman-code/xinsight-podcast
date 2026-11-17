@@ -11,6 +11,15 @@
     <itunes:image href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/cover.jpg"/>
     <atom:link href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>파이맨의 Xinsight 모닝 브리프 — 2026년 11월 18일</title>
+      <description>제미나이 태스크 6개국 무료 확대, 아이소모픽 랩스 50억 달러 투자, 수능 부정행위 대책 최고 수위, 코스피 5000선 붕괴와 IMF 성장률 상향, 주담대 금리 역전과 강남 호가 하락</description>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xinsight-2026-11-18-5b4b7e5c-2026-11-17</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1272761839263039/2305b74d-d208-4252-87c4-423d2d552529/ep-38b1d265-41e2-4457-999d-e71b98a423d9.mp3" length="2890981" type="audio/mpeg"/>
+      <itunes:duration>6:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>파이맨의 Xinsight 모닝 브리프 — 2026년 11월 17일</title>
       <description>오픈AI 과학자 이십만 명 무료 모델, 수능 부정행위 삼 년 박탈 추진, 유류세 연장과 유가 하락, 서울 월세 급등까지 — 십일월 십칠일 아침 브리프.</description>
       <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
