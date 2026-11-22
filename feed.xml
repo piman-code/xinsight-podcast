@@ -11,6 +11,15 @@
     <itunes:image href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/cover.jpg"/>
     <atom:link href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>파이맨의 Xinsight 모닝 브리프 — 2026년 11월 23일</title>
+      <description>AI 서버 가격 인상과 증시 방어, 피사 휴대폰 조사, 자격증 단속, SK하이닉스 목표가 하향, 기업 연구개발비 증가, 서울 재건축 부담금까지 — 11월 23일 월요일 아침 브리핑.</description>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xinsight-2026-11-23-5e2a4ad4-2026-11-22</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1272761839263039/2305b74d-d208-4252-87c4-423d2d552529/ep-2cafb09f-da1e-4628-a9b8-8c97798106a8.mp3" length="2204005" type="audio/mpeg"/>
+      <itunes:duration>4:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Xinsight English Edition — November 22, 2026</title>
       <description>Claire and Daniel on faster AI images, secure agent workspaces, a minister's resignation, and markets waiting on inflation and rates.</description>
       <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
