@@ -11,6 +11,15 @@
     <itunes:image href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/cover.jpg"/>
     <atom:link href="https://raw.githubusercontent.com/piman-code/xinsight-podcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>파이맨의 Xinsight 모닝 브리프 — 2026년 11월 27일</title>
+      <description>금리 인상과 반도체 성장 전망, 인공지능 지도 제작과 종부세 고지 증가를 정리한 모닝 브리프</description>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xinsight-2026-11-27-d5f101be-2026-11-26</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1272761839263039/2305b74d-d208-4252-87c4-423d2d552529/ep-fa1f196c-9608-4679-9afd-6124ad6b1f13.mp3" length="2727486" type="audio/mpeg"/>
+      <itunes:duration>5:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>파이맨의 Xinsight 이브닝 브리프 — 2026년 11월 26일</title>
       <description>에이전트를 맞는 웹과 신뢰성 평가, 학교의 단계별 인공지능 허용선, 한국은행 금리 인상과 약한 증시 반등, 서울 매매 둔화와 공공주택 공급을 정리한 이브닝 브리프</description>
       <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
